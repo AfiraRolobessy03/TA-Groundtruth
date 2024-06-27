@@ -1,0 +1,460 @@
+Source,Relation,Target
+Application Component,FlowRelationship,Business Actor
+Application Component,AssociationRelationship,Business Actor
+Application Component,TriggeringRelationship,Business Actor
+Application Component,ServingRelationship,Business Actor
+Application Component,FlowRelationship,Business Role 
+Application Component,AssociationRelationship,Business Role 
+Application Component,TriggeringRelationship,Business Role 
+Application Component,ServingRelationship,Business Role 
+Application Component,FlowRelationship,Business Collaboration
+Application Component,AssociationRelationship,Business Collaboration
+Application Component,TriggeringRelationship,Business Collaboration
+Application Component,ServingRelationship,Business Collaboration
+Application Component,FlowRelationship,Business Interface
+Application Component,AssociationRelationship,Business Interface
+Application Component,TriggeringRelationship,Business Interface
+Application Component,ServingRelationship,Business Interface
+Application Component,FlowRelationship,Business Process
+Application Component,AssociationRelationship,Business Process
+Application Component,RealizationRelationship,Business Process
+Application Component,TriggeringRelationship,Business Process
+Application Component,ServingRelationship,Business Process
+Application Component,FlowRelationship,Business Function
+Application Component,AssociationRelationship,Business Function
+Application Component,RealizationRelationship,Business Function
+Application Component,TriggeringRelationship,Business Function
+Application Component,ServingRelationship,Business Function
+Application Component,FlowRelationship,Business Interaction
+Application Component,AssociationRelationship,Business Interaction
+Application Component,RealizationRelationship,Business Interaction
+Application Component,TriggeringRelationship,Business Interaction
+Application Component,ServingRelationship,Business Interaction
+Application Component,FlowRelationship,Business Event
+Application Component,AssociationRelationship,Business Event
+Application Component,RealizationRelationship,Business Event
+Application Component,TriggeringRelationship,Business Event
+Application Component,ServingRelationship,Business Event
+Application Component,FlowRelationship,Business Service
+Application Component,AssociationRelationship,Business Service
+Application Component,RealizationRelationship,Business Service
+Application Component,TriggeringRelationship,Business Service
+Application Component,ServingRelationship,Business Service
+Application Component,AccessRelationship,Business Object
+Application Component,AssociationRelationship,Business Object
+Application Component,AccessRelationship,Contract
+Application Component,AssociationRelationship,Contract
+Application Component,AccessRelationship,Representation
+Application Component,AssociationRelationship,Representation
+Application Component,FlowRelationship,Product 
+Application Component,AssociationRelationship,Product 
+Application Component,TriggeringRelationship,Product 
+Application Component,ServingRelationship,Product 
+Application Collaboration,FlowRelationship,Business Actor
+Application Collaboration,AssociationRelationship,Business Actor
+Application Collaboration,TriggeringRelationship,Business Actor
+Application Collaboration,ServingRelationship,Business Actor
+Application Collaboration,FlowRelationship,Business Role 
+Application Collaboration,AssociationRelationship,Business Role 
+Application Collaboration,TriggeringRelationship,Business Role 
+Application Collaboration,ServingRelationship,Business Role 
+Application Collaboration,FlowRelationship,Business Collaboration
+Application Collaboration,AssociationRelationship,Business Collaboration
+Application Collaboration,TriggeringRelationship,Business Collaboration
+Application Collaboration,ServingRelationship,Business Collaboration
+Application Collaboration,FlowRelationship,Business Interface
+Application Collaboration,AssociationRelationship,Business Interface
+Application Collaboration,TriggeringRelationship,Business Interface
+Application Collaboration,ServingRelationship,Business Interface
+Application Collaboration,FlowRelationship,Business Process
+Application Collaboration,AssociationRelationship,Business Process
+Application Collaboration,RealizationRelationship,Business Process
+Application Collaboration,TriggeringRelationship,Business Process
+Application Collaboration,ServingRelationship,Business Process
+Application Collaboration,FlowRelationship,Business Function
+Application Collaboration,AssociationRelationship,Business Function
+Application Collaboration,RealizationRelationship,Business Function
+Application Collaboration,TriggeringRelationship,Business Function
+Application Collaboration,ServingRelationship,Business Function
+Application Collaboration,FlowRelationship,Business Interaction
+Application Collaboration,AssociationRelationship,Business Interaction
+Application Collaboration,RealizationRelationship,Business Interaction
+Application Collaboration,TriggeringRelationship,Business Interaction
+Application Collaboration,ServingRelationship,Business Interaction
+Application Collaboration,FlowRelationship,Business Event
+Application Collaboration,AssociationRelationship,Business Event
+Application Collaboration,RealizationRelationship,Business Event
+Application Collaboration,TriggeringRelationship,Business Event
+Application Collaboration,ServingRelationship,Business Event
+Application Collaboration,FlowRelationship,Business Service
+Application Collaboration,AssociationRelationship,Business Service
+Application Collaboration,RealizationRelationship,Business Service
+Application Collaboration,TriggeringRelationship,Business Service
+Application Collaboration,ServingRelationship,Business Service
+Application Collaboration,AccessRelationship,Business Object
+Application Collaboration,AssociationRelationship,Business Object
+Application Collaboration,AccessRelationship,Contract
+Application Collaboration,AssociationRelationship,Contract
+Application Collaboration,AccessRelationship,Representation
+Application Collaboration,AssociationRelationship,Representation
+Application Collaboration,FlowRelationship,Product 
+Application Collaboration,AssociationRelationship,Product 
+Application Collaboration,TriggeringRelationship,Product 
+Application Collaboration,ServingRelationship,Product 
+Application Interface,FlowRelationship,Business Actor
+Application Interface,AssociationRelationship,Business Actor
+Application Interface,TriggeringRelationship,Business Actor
+Application Interface,ServingRelationship,Business Actor
+Application Interface,FlowRelationship,Business Role 
+Application Interface,AssociationRelationship,Business Role 
+Application Interface,TriggeringRelationship,Business Role 
+Application Interface,ServingRelationship,Business Role 
+Application Interface,FlowRelationship,Business Collaboration
+Application Interface,AssociationRelationship,Business Collaboration
+Application Interface,TriggeringRelationship,Business Collaboration
+Application Interface,ServingRelationship,Business Collaboration
+Application Interface,FlowRelationship,Business Interface
+Application Interface,AssociationRelationship,Business Interface
+Application Interface,TriggeringRelationship,Business Interface
+Application Interface,ServingRelationship,Business Interface
+Application Interface,FlowRelationship,Business Process
+Application Interface,AssociationRelationship,Business Process
+Application Interface,RealizationRelationship,Business Process
+Application Interface,TriggeringRelationship,Business Process
+Application Interface,ServingRelationship,Business Process
+Application Interface,FlowRelationship,Business Function
+Application Interface,AssociationRelationship,Business Function
+Application Interface,RealizationRelationship,Business Function
+Application Interface,TriggeringRelationship,Business Function
+Application Interface,ServingRelationship,Business Function
+Application Interface,FlowRelationship,Business Interaction
+Application Interface,AssociationRelationship,Business Interaction
+Application Interface,RealizationRelationship,Business Interaction
+Application Interface,TriggeringRelationship,Business Interaction
+Application Interface,ServingRelationship,Business Interaction
+Application Interface,FlowRelationship,Business Event
+Application Interface,AssociationRelationship,Business Event
+Application Interface,RealizationRelationship,Business Event
+Application Interface,TriggeringRelationship,Business Event
+Application Interface,ServingRelationship,Business Event
+Application Interface,FlowRelationship,Business Service
+Application Interface,AssociationRelationship,Business Service
+Application Interface,RealizationRelationship,Business Service
+Application Interface,TriggeringRelationship,Business Service
+Application Interface,ServingRelationship,Business Service
+Application Interface,AccessRelationship,Business Object
+Application Interface,AssociationRelationship,Business Object
+Application Interface,AccessRelationship,Contract
+Application Interface,AssociationRelationship,Contract
+Application Interface,AccessRelationship,Representation
+Application Interface,AssociationRelationship,Representation
+Application Interface,FlowRelationship,Product 
+Application Interface,AssociationRelationship,Product 
+Application Interface,TriggeringRelationship,Product 
+Application Interface,ServingRelationship,Product 
+Application Function,FlowRelationship,Business Actor
+Application Function,AssociationRelationship,Business Actor
+Application Function,TriggeringRelationship,Business Actor
+Application Function,ServingRelationship,Business Actor
+Application Function,FlowRelationship,Business Role 
+Application Function,AssociationRelationship,Business Role 
+Application Function,TriggeringRelationship,Business Role 
+Application Function,ServingRelationship,Business Role 
+Application Function,FlowRelationship,Business Collaboration
+Application Function,AssociationRelationship,Business Collaboration
+Application Function,TriggeringRelationship,Business Collaboration
+Application Function,ServingRelationship,Business Collaboration
+Application Function,FlowRelationship,Business Interface
+Application Function,AssociationRelationship,Business Interface
+Application Function,TriggeringRelationship,Business Interface
+Application Function,ServingRelationship,Business Interface
+Application Function,FlowRelationship,Business Process
+Application Function,AssociationRelationship,Business Process
+Application Function,RealizationRelationship,Business Process
+Application Function,TriggeringRelationship,Business Process
+Application Function,ServingRelationship,Business Process
+Application Function,FlowRelationship,Business Function
+Application Function,AssociationRelationship,Business Function
+Application Function,RealizationRelationship,Business Function
+Application Function,TriggeringRelationship,Business Function
+Application Function,ServingRelationship,Business Function
+Application Function,FlowRelationship,Business Interaction
+Application Function,AssociationRelationship,Business Interaction
+Application Function,RealizationRelationship,Business Interaction
+Application Function,TriggeringRelationship,Business Interaction
+Application Function,ServingRelationship,Business Interaction
+Application Function,FlowRelationship,Business Event
+Application Function,AssociationRelationship,Business Event
+Application Function,RealizationRelationship,Business Event
+Application Function,TriggeringRelationship,Business Event
+Application Function,ServingRelationship,Business Event
+Application Function,FlowRelationship,Business Service
+Application Function,AssociationRelationship,Business Service
+Application Function,RealizationRelationship,Business Service
+Application Function,TriggeringRelationship,Business Service
+Application Function,ServingRelationship,Business Service
+Application Function,AccessRelationship,Business Object
+Application Function,AssociationRelationship,Business Object
+Application Function,AccessRelationship,Contract
+Application Function,AssociationRelationship,Contract
+Application Function,AccessRelationship,Representation
+Application Function,AssociationRelationship,Representation
+Application Function,FlowRelationship,Product 
+Application Function,AssociationRelationship,Product 
+Application Function,TriggeringRelationship,Product 
+Application Function,ServingRelationship,Product 
+Application Interaction,FlowRelationship,Business Actor
+Application Interaction,AssociationRelationship,Business Actor
+Application Interaction,TriggeringRelationship,Business Actor
+Application Interaction,ServingRelationship,Business Actor
+Application Interaction,FlowRelationship,Business Role 
+Application Interaction,AssociationRelationship,Business Role 
+Application Interaction,TriggeringRelationship,Business Role 
+Application Interaction,ServingRelationship,Business Role 
+Application Interaction,FlowRelationship,Business Collaboration
+Application Interaction,AssociationRelationship,Business Collaboration
+Application Interaction,TriggeringRelationship,Business Collaboration
+Application Interaction,ServingRelationship,Business Collaboration
+Application Interaction,FlowRelationship,Business Interface
+Application Interaction,AssociationRelationship,Business Interface
+Application Interaction,TriggeringRelationship,Business Interface
+Application Interaction,ServingRelationship,Business Interface
+Application Interaction,FlowRelationship,Business Process
+Application Interaction,AssociationRelationship,Business Process
+Application Interaction,RealizationRelationship,Business Process
+Application Interaction,TriggeringRelationship,Business Process
+Application Interaction,ServingRelationship,Business Process
+Application Interaction,FlowRelationship,Business Function
+Application Interaction,AssociationRelationship,Business Function
+Application Interaction,RealizationRelationship,Business Function
+Application Interaction,TriggeringRelationship,Business Function
+Application Interaction,ServingRelationship,Business Function
+Application Interaction,FlowRelationship,Business Interaction
+Application Interaction,AssociationRelationship,Business Interaction
+Application Interaction,RealizationRelationship,Business Interaction
+Application Interaction,TriggeringRelationship,Business Interaction
+Application Interaction,ServingRelationship,Business Interaction
+Application Interaction,FlowRelationship,Business Event
+Application Interaction,AssociationRelationship,Business Event
+Application Interaction,RealizationRelationship,Business Event
+Application Interaction,TriggeringRelationship,Business Event
+Application Interaction,ServingRelationship,Business Event
+Application Interaction,FlowRelationship,Business Service
+Application Interaction,AssociationRelationship,Business Service
+Application Interaction,RealizationRelationship,Business Service
+Application Interaction,TriggeringRelationship,Business Service
+Application Interaction,ServingRelationship,Business Service
+Application Interaction,AccessRelationship,Business Object
+Application Interaction,AssociationRelationship,Business Object
+Application Interaction,AccessRelationship,Contract
+Application Interaction,AssociationRelationship,Contract
+Application Interaction,AccessRelationship,Representation
+Application Interaction,AssociationRelationship,Representation
+Application Interaction,FlowRelationship,Product 
+Application Interaction,AssociationRelationship,Product 
+Application Interaction,TriggeringRelationship,Product 
+Application Interaction,ServingRelationship,Product 
+Application Process,FlowRelationship,Business Actor
+Application Process,AssociationRelationship,Business Actor
+Application Process,TriggeringRelationship,Business Actor
+Application Process,ServingRelationship,Business Actor
+Application Process,FlowRelationship,Business Role 
+Application Process,AssociationRelationship,Business Role 
+Application Process,TriggeringRelationship,Business Role 
+Application Process,ServingRelationship,Business Role 
+Application Process,FlowRelationship,Business Collaboration
+Application Process,AssociationRelationship,Business Collaboration
+Application Process,TriggeringRelationship,Business Collaboration
+Application Process,ServingRelationship,Business Collaboration
+Application Process,FlowRelationship,Business Interface
+Application Process,AssociationRelationship,Business Interface
+Application Process,TriggeringRelationship,Business Interface
+Application Process,ServingRelationship,Business Interface
+Application Process,FlowRelationship,Business Process
+Application Process,AssociationRelationship,Business Process
+Application Process,RealizationRelationship,Business Process
+Application Process,TriggeringRelationship,Business Process
+Application Process,ServingRelationship,Business Process
+Application Process,FlowRelationship,Business Function
+Application Process,AssociationRelationship,Business Function
+Application Process,RealizationRelationship,Business Function
+Application Process,TriggeringRelationship,Business Function
+Application Process,ServingRelationship,Business Function
+Application Process,FlowRelationship,Business Interaction
+Application Process,AssociationRelationship,Business Interaction
+Application Process,RealizationRelationship,Business Interaction
+Application Process,TriggeringRelationship,Business Interaction
+Application Process,ServingRelationship,Business Interaction
+Application Process,FlowRelationship,Business Event
+Application Process,AssociationRelationship,Business Event
+Application Process,RealizationRelationship,Business Event
+Application Process,TriggeringRelationship,Business Event
+Application Process,ServingRelationship,Business Event
+Application Process,FlowRelationship,Business Service
+Application Process,AssociationRelationship,Business Service
+Application Process,RealizationRelationship,Business Service
+Application Process,TriggeringRelationship,Business Service
+Application Process,ServingRelationship,Business Service
+Application Process,AccessRelationship,Business Object
+Application Process,AssociationRelationship,Business Object
+Application Process,AccessRelationship,Contract
+Application Process,AssociationRelationship,Contract
+Application Process,AccessRelationship,Representation
+Application Process,AssociationRelationship,Representation
+Application Process,FlowRelationship,Product 
+Application Process,AssociationRelationship,Product 
+Application Process,TriggeringRelationship,Product 
+Application Process,ServingRelationship,Product 
+Application Event,FlowRelationship,Business Actor
+Application Event,AssociationRelationship,Business Actor
+Application Event,TriggeringRelationship,Business Actor
+Application Event,ServingRelationship,Business Actor
+Application Event,FlowRelationship,Business Role 
+Application Event,AssociationRelationship,Business Role 
+Application Event,TriggeringRelationship,Business Role 
+Application Event,ServingRelationship,Business Role 
+Application Event,FlowRelationship,Business Collaboration
+Application Event,AssociationRelationship,Business Collaboration
+Application Event,TriggeringRelationship,Business Collaboration
+Application Event,ServingRelationship,Business Collaboration
+Application Event,FlowRelationship,Business Interface
+Application Event,AssociationRelationship,Business Interface
+Application Event,TriggeringRelationship,Business Interface
+Application Event,ServingRelationship,Business Interface
+Application Event,FlowRelationship,Business Process
+Application Event,AssociationRelationship,Business Process
+Application Event,RealizationRelationship,Business Process
+Application Event,TriggeringRelationship,Business Process
+Application Event,ServingRelationship,Business Process
+Application Event,FlowRelationship,Business Function
+Application Event,AssociationRelationship,Business Function
+Application Event,RealizationRelationship,Business Function
+Application Event,TriggeringRelationship,Business Function
+Application Event,ServingRelationship,Business Function
+Application Event,FlowRelationship,Business Interaction
+Application Event,AssociationRelationship,Business Interaction
+Application Event,RealizationRelationship,Business Interaction
+Application Event,TriggeringRelationship,Business Interaction
+Application Event,ServingRelationship,Business Interaction
+Application Event,FlowRelationship,Business Event
+Application Event,AssociationRelationship,Business Event
+Application Event,RealizationRelationship,Business Event
+Application Event,TriggeringRelationship,Business Event
+Application Event,ServingRelationship,Business Event
+Application Event,FlowRelationship,Business Service
+Application Event,AssociationRelationship,Business Service
+Application Event,RealizationRelationship,Business Service
+Application Event,TriggeringRelationship,Business Service
+Application Event,ServingRelationship,Business Service
+Application Event,AccessRelationship,Business Object
+Application Event,AssociationRelationship,Business Object
+Application Event,AccessRelationship,Contract
+Application Event,AssociationRelationship,Contract
+Application Event,AccessRelationship,Representation
+Application Event,AssociationRelationship,Representation
+Application Event,FlowRelationship,Product 
+Application Event,AssociationRelationship,Product 
+Application Event,TriggeringRelationship,Product 
+Application Event,ServingRelationship,Product 
+Application Service,FlowRelationship,Business Actor
+Application Service,AssociationRelationship,Business Actor
+Application Service,TriggeringRelationship,Business Actor
+Application Service,ServingRelationship,Business Actor
+Application Service,FlowRelationship,Business Role 
+Application Service,AssociationRelationship,Business Role 
+Application Service,TriggeringRelationship,Business Role 
+Application Service,ServingRelationship,Business Role 
+Application Service,FlowRelationship,Business Collaboration
+Application Service,AssociationRelationship,Business Collaboration
+Application Service,TriggeringRelationship,Business Collaboration
+Application Service,ServingRelationship,Business Collaboration
+Application Service,FlowRelationship,Business Interface
+Application Service,AssociationRelationship,Business Interface
+Application Service,TriggeringRelationship,Business Interface
+Application Service,ServingRelationship,Business Interface
+Application Service,FlowRelationship,Business Process
+Application Service,AssociationRelationship,Business Process
+Application Service,RealizationRelationship,Business Process
+Application Service,TriggeringRelationship,Business Process
+Application Service,ServingRelationship,Business Process
+Application Service,FlowRelationship,Business Function
+Application Service,AssociationRelationship,Business Function
+Application Service,RealizationRelationship,Business Function
+Application Service,TriggeringRelationship,Business Function
+Application Service,ServingRelationship,Business Function
+Application Service,FlowRelationship,Business Interaction
+Application Service,AssociationRelationship,Business Interaction
+Application Service,RealizationRelationship,Business Interaction
+Application Service,TriggeringRelationship,Business Interaction
+Application Service,ServingRelationship,Business Interaction
+Application Service,FlowRelationship,Business Event
+Application Service,AssociationRelationship,Business Event
+Application Service,RealizationRelationship,Business Event
+Application Service,TriggeringRelationship,Business Event
+Application Service,ServingRelationship,Business Event
+Application Service,FlowRelationship,Business Service
+Application Service,AssociationRelationship,Business Service
+Application Service,RealizationRelationship,Business Service
+Application Service,TriggeringRelationship,Business Service
+Application Service,ServingRelationship,Business Service
+Application Service,AccessRelationship,Business Object
+Application Service,AssociationRelationship,Business Object
+Application Service,AccessRelationship,Contract
+Application Service,AssociationRelationship,Contract
+Application Service,AccessRelationship,Representation
+Application Service,AssociationRelationship,Representation
+Application Service,FlowRelationship,Product 
+Application Service,AssociationRelationship,Product 
+Application Service,TriggeringRelationship,Product 
+Application Service,ServingRelationship,Product 
+Data Object,FlowRelationship,Business Actor
+Data Object,AssociationRelationship,Business Actor
+Data Object,TriggeringRelationship,Business Actor
+Data Object,ServingRelationship,Business Actor
+Data Object,FlowRelationship,Business Role 
+Data Object,AssociationRelationship,Business Role 
+Data Object,TriggeringRelationship,Business Role 
+Data Object,ServingRelationship,Business Role 
+Data Object,FlowRelationship,Business Collaboration
+Data Object,AssociationRelationship,Business Collaboration
+Data Object,TriggeringRelationship,Business Collaboration
+Data Object,ServingRelationship,Business Collaboration
+Data Object,FlowRelationship,Business Interface
+Data Object,AssociationRelationship,Business Interface
+Data Object,TriggeringRelationship,Business Interface
+Data Object,ServingRelationship,Business Interface
+Data Object,FlowRelationship,Business Process
+Data Object,AssociationRelationship,Business Process
+Data Object,RealizationRelationship,Business Process
+Data Object,TriggeringRelationship,Business Process
+Data Object,ServingRelationship,Business Process
+Data Object,FlowRelationship,Business Function
+Data Object,AssociationRelationship,Business Function
+Data Object,RealizationRelationship,Business Function
+Data Object,TriggeringRelationship,Business Function
+Data Object,ServingRelationship,Business Function
+Data Object,FlowRelationship,Business Interaction
+Data Object,AssociationRelationship,Business Interaction
+Data Object,RealizationRelationship,Business Interaction
+Data Object,TriggeringRelationship,Business Interaction
+Data Object,ServingRelationship,Business Interaction
+Data Object,FlowRelationship,Business Event
+Data Object,AssociationRelationship,Business Event
+Data Object,RealizationRelationship,Business Event
+Data Object,TriggeringRelationship,Business Event
+Data Object,ServingRelationship,Business Event
+Data Object,FlowRelationship,Business Service
+Data Object,AssociationRelationship,Business Service
+Data Object,RealizationRelationship,Business Service
+Data Object,TriggeringRelationship,Business Service
+Data Object,ServingRelationship,Business Service
+Data Object,AccessRelationship,Business Object
+Data Object,AssociationRelationship,Business Object
+Data Object,AccessRelationship,Contract
+Data Object,AssociationRelationship,Contract
+Data Object,AccessRelationship,Representation
+Data Object,AssociationRelationship,Representation
+Data Object,FlowRelationship,Product 
+Data Object,AssociationRelationship,Product 
+Data Object,TriggeringRelationship,Product 
+Data Object,ServingRelationship,Product 

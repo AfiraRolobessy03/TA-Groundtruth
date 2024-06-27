@@ -1,0 +1,1028 @@
+Source,Relation,Target
+Business Actor,CompositionRelationship,Business Actor
+Business Actor,FlowRelationship,Business Actor
+Business Actor,AggregationRelationship,Business Actor
+Business Actor,AssociationRelationship,Business Actor
+Business Actor,SpecializationRelationship,Business Actor
+Business Actor,TriggeringRelationship,Business Actor
+Business Actor,ServingRelationship,Business Actor
+Business Actor,CompositionRelationship,Business Role 
+Business Actor,FlowRelationship,Business Role 
+Business Actor,AggregationRelationship,Business Role 
+Business Actor,AssociationRelationship,Business Role 
+Business Actor,SpecializationRelationship,Business Role 
+Business Actor,TriggeringRelationship,Business Role 
+Business Actor,ServingRelationship,Business Role 
+Business Actor,CompositionRelationship,Business Collaboration
+Business Actor,FlowRelationship,Business Collaboration
+Business Actor,AggregationRelationship,Business Collaboration
+Business Actor,AssociationRelationship,Business Collaboration
+Business Actor,SpecializationRelationship,Business Collaboration
+Business Actor,TriggeringRelationship,Business Collaboration
+Business Actor,ServingRelationship,Business Collaboration
+Business Actor,CompositionRelationship,Business Interface
+Business Actor,FlowRelationship,Business Interface
+Business Actor,AggregationRelationship,Business Interface
+Business Actor,AssignmentRelationship,Business Interface
+Business Actor,AssociationRelationship,Business Interface
+Business Actor,TriggeringRelationship,Business Interface
+Business Actor,ServingRelationship,Business Interface
+Business Actor,FlowRelationship,Business Process
+Business Actor,AssociationRelationship,Business Process
+Business Actor,TriggeringRelationship,Business Process
+Business Actor,ServingRelationship,Business Process
+Business Actor,CompositionRelationship,Business Function
+Business Actor,FlowRelationship,Business Function
+Business Actor,AggregationRelationship,Business Function
+Business Actor,AssociationRelationship,Business Function
+Business Actor,SpecializationRelationship,Business Function
+Business Actor,TriggeringRelationship,Business Function
+Business Actor,ServingRelationship,Business Function
+Business Actor,CompositionRelationship,Business Interaction
+Business Actor,FlowRelationship,Business Interaction
+Business Actor,AggregationRelationship,Business Interaction
+Business Actor,AssociationRelationship,Business Interaction
+Business Actor,SpecializationRelationship,Business Interaction
+Business Actor,TriggeringRelationship,Business Interaction
+Business Actor,ServingRelationship,Business Interaction
+Business Actor,CompositionRelationship,Business Event
+Business Actor,FlowRelationship,Business Event
+Business Actor,AggregationRelationship,Business Event
+Business Actor,AssociationRelationship,Business Event
+Business Actor,SpecializationRelationship,Business Event
+Business Actor,TriggeringRelationship,Business Event
+Business Actor,ServingRelationship,Business Event
+Business Actor,CompositionRelationship,Business Service
+Business Actor,FlowRelationship,Business Service
+Business Actor,AggregationRelationship,Business Service
+Business Actor,AssociationRelationship,Business Service
+Business Actor,SpecializationRelationship,Business Service
+Business Actor,TriggeringRelationship,Business Service
+Business Actor,ServingRelationship,Business Service
+Business Actor,CompositionRelationship,Business Object
+Business Actor,AggregationRelationship,Business Object
+Business Actor,AssociationRelationship,Business Object
+Business Actor,SpecializationRelationship,Business Object
+Business Actor,CompositionRelationship,Representation
+Business Actor,AggregationRelationship,Representation
+Business Actor,AssociationRelationship,Representation
+Business Actor,SpecializationRelationship,Representation
+Business Actor,CompositionRelationship,Contract
+Business Actor,AggregationRelationship,Contract
+Business Actor,AssociationRelationship,Contract
+Business Actor,SpecializationRelationship,Contract
+Business Actor,CompositionRelationship,Product
+Business Actor,FlowRelationship,Product
+Business Actor,AggregationRelationship,Product
+Business Actor,AssociationRelationship,Product
+Business Actor,SpecializationRelationship,Product
+Business Actor,TriggeringRelationship,Product
+Business Actor,ServingRelationship,Product
+Business Role ,CompositionRelationship,Business Actor
+Business Role ,FlowRelationship,Business Actor
+Business Role ,AggregationRelationship,Business Actor
+Business Role ,AssociationRelationship,Business Actor
+Business Role ,SpecializationRelationship,Business Actor
+Business Role ,TriggeringRelationship,Business Actor
+Business Role ,ServingRelationship,Business Actor
+Business Role ,CompositionRelationship,Business Role 
+Business Role ,FlowRelationship,Business Role 
+Business Role ,AggregationRelationship,Business Role 
+Business Role ,AssociationRelationship,Business Role 
+Business Role ,SpecializationRelationship,Business Role 
+Business Role ,TriggeringRelationship,Business Role 
+Business Role ,ServingRelationship,Business Role 
+Business Role ,CompositionRelationship,Business Collaboration
+Business Role ,FlowRelationship,Business Collaboration
+Business Role ,AggregationRelationship,Business Collaboration
+Business Role ,AssociationRelationship,Business Collaboration
+Business Role ,SpecializationRelationship,Business Collaboration
+Business Role ,TriggeringRelationship,Business Collaboration
+Business Role ,ServingRelationship,Business Collaboration
+Business Role ,CompositionRelationship,Business Interface
+Business Role ,FlowRelationship,Business Interface
+Business Role ,AggregationRelationship,Business Interface
+Business Role ,AssignmentRelationship,Business Interface
+Business Role ,AssociationRelationship,Business Interface
+Business Role ,TriggeringRelationship,Business Interface
+Business Role ,ServingRelationship,Business Interface
+Business Role ,FlowRelationship,Business Process
+Business Role ,AssociationRelationship,Business Process
+Business Role ,TriggeringRelationship,Business Process
+Business Role ,ServingRelationship,Business Process
+Business Role ,CompositionRelationship,Business Function
+Business Role ,FlowRelationship,Business Function
+Business Role ,AggregationRelationship,Business Function
+Business Role ,AssociationRelationship,Business Function
+Business Role ,SpecializationRelationship,Business Function
+Business Role ,TriggeringRelationship,Business Function
+Business Role ,ServingRelationship,Business Function
+Business Role ,CompositionRelationship,Business Interaction
+Business Role ,FlowRelationship,Business Interaction
+Business Role ,AggregationRelationship,Business Interaction
+Business Role ,AssociationRelationship,Business Interaction
+Business Role ,SpecializationRelationship,Business Interaction
+Business Role ,TriggeringRelationship,Business Interaction
+Business Role ,ServingRelationship,Business Interaction
+Business Role ,CompositionRelationship,Business Event
+Business Role ,FlowRelationship,Business Event
+Business Role ,AggregationRelationship,Business Event
+Business Role ,AssociationRelationship,Business Event
+Business Role ,SpecializationRelationship,Business Event
+Business Role ,TriggeringRelationship,Business Event
+Business Role ,ServingRelationship,Business Event
+Business Role ,CompositionRelationship,Business Service
+Business Role ,FlowRelationship,Business Service
+Business Role ,AggregationRelationship,Business Service
+Business Role ,AssociationRelationship,Business Service
+Business Role ,SpecializationRelationship,Business Service
+Business Role ,TriggeringRelationship,Business Service
+Business Role ,ServingRelationship,Business Service
+Business Role ,CompositionRelationship,Business Object
+Business Role ,AggregationRelationship,Business Object
+Business Role ,AssociationRelationship,Business Object
+Business Role ,SpecializationRelationship,Business Object
+Business Role ,CompositionRelationship,Representation
+Business Role ,AggregationRelationship,Representation
+Business Role ,AssociationRelationship,Representation
+Business Role ,SpecializationRelationship,Representation
+Business Role ,CompositionRelationship,Contract
+Business Role ,AggregationRelationship,Contract
+Business Role ,AssociationRelationship,Contract
+Business Role ,SpecializationRelationship,Contract
+Business Role ,CompositionRelationship,Product
+Business Role ,FlowRelationship,Product
+Business Role ,AggregationRelationship,Product
+Business Role ,AssociationRelationship,Product
+Business Role ,SpecializationRelationship,Product
+Business Role ,TriggeringRelationship,Product
+Business Role ,ServingRelationship,Product
+Business Collaboration,CompositionRelationship,Business Actor
+Business Collaboration,FlowRelationship,Business Actor
+Business Collaboration,AggregationRelationship,Business Actor
+Business Collaboration,AssociationRelationship,Business Actor
+Business Collaboration,SpecializationRelationship,Business Actor
+Business Collaboration,TriggeringRelationship,Business Actor
+Business Collaboration,ServingRelationship,Business Actor
+Business Collaboration,CompositionRelationship,Business Role 
+Business Collaboration,FlowRelationship,Business Role 
+Business Collaboration,AggregationRelationship,Business Role 
+Business Collaboration,AssociationRelationship,Business Role 
+Business Collaboration,SpecializationRelationship,Business Role 
+Business Collaboration,TriggeringRelationship,Business Role 
+Business Collaboration,ServingRelationship,Business Role 
+Business Collaboration,CompositionRelationship,Business Collaboration
+Business Collaboration,FlowRelationship,Business Collaboration
+Business Collaboration,AggregationRelationship,Business Collaboration
+Business Collaboration,AssociationRelationship,Business Collaboration
+Business Collaboration,SpecializationRelationship,Business Collaboration
+Business Collaboration,TriggeringRelationship,Business Collaboration
+Business Collaboration,ServingRelationship,Business Collaboration
+Business Collaboration,CompositionRelationship,Business Interface
+Business Collaboration,FlowRelationship,Business Interface
+Business Collaboration,AggregationRelationship,Business Interface
+Business Collaboration,AssignmentRelationship,Business Interface
+Business Collaboration,AssociationRelationship,Business Interface
+Business Collaboration,TriggeringRelationship,Business Interface
+Business Collaboration,ServingRelationship,Business Interface
+Business Collaboration,FlowRelationship,Business Process
+Business Collaboration,AssociationRelationship,Business Process
+Business Collaboration,TriggeringRelationship,Business Process
+Business Collaboration,ServingRelationship,Business Process
+Business Collaboration,CompositionRelationship,Business Function
+Business Collaboration,FlowRelationship,Business Function
+Business Collaboration,AggregationRelationship,Business Function
+Business Collaboration,AssociationRelationship,Business Function
+Business Collaboration,SpecializationRelationship,Business Function
+Business Collaboration,TriggeringRelationship,Business Function
+Business Collaboration,ServingRelationship,Business Function
+Business Collaboration,CompositionRelationship,Business Interaction
+Business Collaboration,FlowRelationship,Business Interaction
+Business Collaboration,AggregationRelationship,Business Interaction
+Business Collaboration,AssociationRelationship,Business Interaction
+Business Collaboration,SpecializationRelationship,Business Interaction
+Business Collaboration,TriggeringRelationship,Business Interaction
+Business Collaboration,ServingRelationship,Business Interaction
+Business Collaboration,CompositionRelationship,Business Event
+Business Collaboration,FlowRelationship,Business Event
+Business Collaboration,AggregationRelationship,Business Event
+Business Collaboration,AssociationRelationship,Business Event
+Business Collaboration,SpecializationRelationship,Business Event
+Business Collaboration,TriggeringRelationship,Business Event
+Business Collaboration,ServingRelationship,Business Event
+Business Collaboration,CompositionRelationship,Business Service
+Business Collaboration,FlowRelationship,Business Service
+Business Collaboration,AggregationRelationship,Business Service
+Business Collaboration,AssociationRelationship,Business Service
+Business Collaboration,SpecializationRelationship,Business Service
+Business Collaboration,TriggeringRelationship,Business Service
+Business Collaboration,ServingRelationship,Business Service
+Business Collaboration,CompositionRelationship,Business Object
+Business Collaboration,AggregationRelationship,Business Object
+Business Collaboration,AssociationRelationship,Business Object
+Business Collaboration,SpecializationRelationship,Business Object
+Business Collaboration,CompositionRelationship,Representation
+Business Collaboration,AggregationRelationship,Representation
+Business Collaboration,AssociationRelationship,Representation
+Business Collaboration,SpecializationRelationship,Representation
+Business Collaboration,CompositionRelationship,Contract
+Business Collaboration,AggregationRelationship,Contract
+Business Collaboration,AssociationRelationship,Contract
+Business Collaboration,SpecializationRelationship,Contract
+Business Collaboration,CompositionRelationship,Product
+Business Collaboration,FlowRelationship,Product
+Business Collaboration,AggregationRelationship,Product
+Business Collaboration,AssociationRelationship,Product
+Business Collaboration,SpecializationRelationship,Product
+Business Collaboration,TriggeringRelationship,Product
+Business Collaboration,ServingRelationship,Product
+Business Interface,CompositionRelationship,Business Actor
+Business Interface,FlowRelationship,Business Actor
+Business Interface,AggregationRelationship,Business Actor
+Business Interface,AssociationRelationship,Business Actor
+Business Interface,SpecializationRelationship,Business Actor
+Business Interface,TriggeringRelationship,Business Actor
+Business Interface,ServingRelationship,Business Actor
+Business Interface,CompositionRelationship,Business Role 
+Business Interface,FlowRelationship,Business Role 
+Business Interface,AggregationRelationship,Business Role 
+Business Interface,AssociationRelationship,Business Role 
+Business Interface,SpecializationRelationship,Business Role 
+Business Interface,TriggeringRelationship,Business Role 
+Business Interface,ServingRelationship,Business Role 
+Business Interface,CompositionRelationship,Business Collaboration
+Business Interface,FlowRelationship,Business Collaboration
+Business Interface,AggregationRelationship,Business Collaboration
+Business Interface,AssociationRelationship,Business Collaboration
+Business Interface,SpecializationRelationship,Business Collaboration
+Business Interface,TriggeringRelationship,Business Collaboration
+Business Interface,ServingRelationship,Business Collaboration
+Business Interface,CompositionRelationship,Business Interface
+Business Interface,FlowRelationship,Business Interface
+Business Interface,AggregationRelationship,Business Interface
+Business Interface,AssignmentRelationship,Business Interface
+Business Interface,AssociationRelationship,Business Interface
+Business Interface,TriggeringRelationship,Business Interface
+Business Interface,ServingRelationship,Business Interface
+Business Interface,FlowRelationship,Business Process
+Business Interface,AssociationRelationship,Business Process
+Business Interface,TriggeringRelationship,Business Process
+Business Interface,ServingRelationship,Business Process
+Business Interface,CompositionRelationship,Business Function
+Business Interface,FlowRelationship,Business Function
+Business Interface,AggregationRelationship,Business Function
+Business Interface,AssociationRelationship,Business Function
+Business Interface,SpecializationRelationship,Business Function
+Business Interface,TriggeringRelationship,Business Function
+Business Interface,ServingRelationship,Business Function
+Business Interface,CompositionRelationship,Business Interaction
+Business Interface,FlowRelationship,Business Interaction
+Business Interface,AggregationRelationship,Business Interaction
+Business Interface,AssociationRelationship,Business Interaction
+Business Interface,SpecializationRelationship,Business Interaction
+Business Interface,TriggeringRelationship,Business Interaction
+Business Interface,ServingRelationship,Business Interaction
+Business Interface,CompositionRelationship,Business Event
+Business Interface,FlowRelationship,Business Event
+Business Interface,AggregationRelationship,Business Event
+Business Interface,AssociationRelationship,Business Event
+Business Interface,SpecializationRelationship,Business Event
+Business Interface,TriggeringRelationship,Business Event
+Business Interface,ServingRelationship,Business Event
+Business Interface,CompositionRelationship,Business Service
+Business Interface,FlowRelationship,Business Service
+Business Interface,AggregationRelationship,Business Service
+Business Interface,AssociationRelationship,Business Service
+Business Interface,SpecializationRelationship,Business Service
+Business Interface,TriggeringRelationship,Business Service
+Business Interface,ServingRelationship,Business Service
+Business Interface,CompositionRelationship,Business Object
+Business Interface,AggregationRelationship,Business Object
+Business Interface,AssociationRelationship,Business Object
+Business Interface,SpecializationRelationship,Business Object
+Business Interface,CompositionRelationship,Representation
+Business Interface,AggregationRelationship,Representation
+Business Interface,AssociationRelationship,Representation
+Business Interface,SpecializationRelationship,Representation
+Business Interface,CompositionRelationship,Contract
+Business Interface,AggregationRelationship,Contract
+Business Interface,AssociationRelationship,Contract
+Business Interface,SpecializationRelationship,Contract
+Business Interface,CompositionRelationship,Product
+Business Interface,FlowRelationship,Product
+Business Interface,AggregationRelationship,Product
+Business Interface,AssociationRelationship,Product
+Business Interface,SpecializationRelationship,Product
+Business Interface,TriggeringRelationship,Product
+Business Interface,ServingRelationship,Product
+Business Process,CompositionRelationship,Business Actor
+Business Process,FlowRelationship,Business Actor
+Business Process,AggregationRelationship,Business Actor
+Business Process,AssociationRelationship,Business Actor
+Business Process,SpecializationRelationship,Business Actor
+Business Process,TriggeringRelationship,Business Actor
+Business Process,ServingRelationship,Business Actor
+Business Process,CompositionRelationship,Business Role 
+Business Process,FlowRelationship,Business Role 
+Business Process,AggregationRelationship,Business Role 
+Business Process,AssociationRelationship,Business Role 
+Business Process,SpecializationRelationship,Business Role 
+Business Process,TriggeringRelationship,Business Role 
+Business Process,ServingRelationship,Business Role 
+Business Process,CompositionRelationship,Business Collaboration
+Business Process,FlowRelationship,Business Collaboration
+Business Process,AggregationRelationship,Business Collaboration
+Business Process,AssociationRelationship,Business Collaboration
+Business Process,SpecializationRelationship,Business Collaboration
+Business Process,TriggeringRelationship,Business Collaboration
+Business Process,ServingRelationship,Business Collaboration
+Business Process,CompositionRelationship,Business Interface
+Business Process,FlowRelationship,Business Interface
+Business Process,AggregationRelationship,Business Interface
+Business Process,AssignmentRelationship,Business Interface
+Business Process,AssociationRelationship,Business Interface
+Business Process,TriggeringRelationship,Business Interface
+Business Process,ServingRelationship,Business Interface
+Business Process,FlowRelationship,Business Process
+Business Process,AssociationRelationship,Business Process
+Business Process,TriggeringRelationship,Business Process
+Business Process,ServingRelationship,Business Process
+Business Process,CompositionRelationship,Business Function
+Business Process,FlowRelationship,Business Function
+Business Process,AggregationRelationship,Business Function
+Business Process,AssociationRelationship,Business Function
+Business Process,SpecializationRelationship,Business Function
+Business Process,TriggeringRelationship,Business Function
+Business Process,ServingRelationship,Business Function
+Business Process,CompositionRelationship,Business Interaction
+Business Process,FlowRelationship,Business Interaction
+Business Process,AggregationRelationship,Business Interaction
+Business Process,AssociationRelationship,Business Interaction
+Business Process,SpecializationRelationship,Business Interaction
+Business Process,TriggeringRelationship,Business Interaction
+Business Process,ServingRelationship,Business Interaction
+Business Process,CompositionRelationship,Business Event
+Business Process,FlowRelationship,Business Event
+Business Process,AggregationRelationship,Business Event
+Business Process,AssociationRelationship,Business Event
+Business Process,SpecializationRelationship,Business Event
+Business Process,TriggeringRelationship,Business Event
+Business Process,ServingRelationship,Business Event
+Business Process,CompositionRelationship,Business Service
+Business Process,FlowRelationship,Business Service
+Business Process,AggregationRelationship,Business Service
+Business Process,AssociationRelationship,Business Service
+Business Process,SpecializationRelationship,Business Service
+Business Process,TriggeringRelationship,Business Service
+Business Process,ServingRelationship,Business Service
+Business Process,CompositionRelationship,Business Object
+Business Process,AggregationRelationship,Business Object
+Business Process,AssociationRelationship,Business Object
+Business Process,SpecializationRelationship,Business Object
+Business Process,CompositionRelationship,Representation
+Business Process,AggregationRelationship,Representation
+Business Process,AssociationRelationship,Representation
+Business Process,SpecializationRelationship,Representation
+Business Process,CompositionRelationship,Contract
+Business Process,AggregationRelationship,Contract
+Business Process,AssociationRelationship,Contract
+Business Process,SpecializationRelationship,Contract
+Business Process,CompositionRelationship,Product
+Business Process,FlowRelationship,Product
+Business Process,AggregationRelationship,Product
+Business Process,AssociationRelationship,Product
+Business Process,SpecializationRelationship,Product
+Business Process,TriggeringRelationship,Product
+Business Process,ServingRelationship,Product
+Business Function,CompositionRelationship,Business Actor
+Business Function,FlowRelationship,Business Actor
+Business Function,AggregationRelationship,Business Actor
+Business Function,AssociationRelationship,Business Actor
+Business Function,SpecializationRelationship,Business Actor
+Business Function,TriggeringRelationship,Business Actor
+Business Function,ServingRelationship,Business Actor
+Business Function,CompositionRelationship,Business Role 
+Business Function,FlowRelationship,Business Role 
+Business Function,AggregationRelationship,Business Role 
+Business Function,AssociationRelationship,Business Role 
+Business Function,SpecializationRelationship,Business Role 
+Business Function,TriggeringRelationship,Business Role 
+Business Function,ServingRelationship,Business Role 
+Business Function,CompositionRelationship,Business Collaboration
+Business Function,FlowRelationship,Business Collaboration
+Business Function,AggregationRelationship,Business Collaboration
+Business Function,AssociationRelationship,Business Collaboration
+Business Function,SpecializationRelationship,Business Collaboration
+Business Function,TriggeringRelationship,Business Collaboration
+Business Function,ServingRelationship,Business Collaboration
+Business Function,CompositionRelationship,Business Interface
+Business Function,FlowRelationship,Business Interface
+Business Function,AggregationRelationship,Business Interface
+Business Function,AssignmentRelationship,Business Interface
+Business Function,AssociationRelationship,Business Interface
+Business Function,TriggeringRelationship,Business Interface
+Business Function,ServingRelationship,Business Interface
+Business Function,FlowRelationship,Business Process
+Business Function,AssociationRelationship,Business Process
+Business Function,TriggeringRelationship,Business Process
+Business Function,ServingRelationship,Business Process
+Business Function,CompositionRelationship,Business Function
+Business Function,FlowRelationship,Business Function
+Business Function,AggregationRelationship,Business Function
+Business Function,AssociationRelationship,Business Function
+Business Function,SpecializationRelationship,Business Function
+Business Function,TriggeringRelationship,Business Function
+Business Function,ServingRelationship,Business Function
+Business Function,CompositionRelationship,Business Interaction
+Business Function,FlowRelationship,Business Interaction
+Business Function,AggregationRelationship,Business Interaction
+Business Function,AssociationRelationship,Business Interaction
+Business Function,SpecializationRelationship,Business Interaction
+Business Function,TriggeringRelationship,Business Interaction
+Business Function,ServingRelationship,Business Interaction
+Business Function,CompositionRelationship,Business Event
+Business Function,FlowRelationship,Business Event
+Business Function,AggregationRelationship,Business Event
+Business Function,AssociationRelationship,Business Event
+Business Function,SpecializationRelationship,Business Event
+Business Function,TriggeringRelationship,Business Event
+Business Function,ServingRelationship,Business Event
+Business Function,CompositionRelationship,Business Service
+Business Function,FlowRelationship,Business Service
+Business Function,AggregationRelationship,Business Service
+Business Function,AssociationRelationship,Business Service
+Business Function,SpecializationRelationship,Business Service
+Business Function,TriggeringRelationship,Business Service
+Business Function,ServingRelationship,Business Service
+Business Function,CompositionRelationship,Business Object
+Business Function,AggregationRelationship,Business Object
+Business Function,AssociationRelationship,Business Object
+Business Function,SpecializationRelationship,Business Object
+Business Function,CompositionRelationship,Representation
+Business Function,AggregationRelationship,Representation
+Business Function,AssociationRelationship,Representation
+Business Function,SpecializationRelationship,Representation
+Business Function,CompositionRelationship,Contract
+Business Function,AggregationRelationship,Contract
+Business Function,AssociationRelationship,Contract
+Business Function,SpecializationRelationship,Contract
+Business Function,CompositionRelationship,Product
+Business Function,FlowRelationship,Product
+Business Function,AggregationRelationship,Product
+Business Function,AssociationRelationship,Product
+Business Function,SpecializationRelationship,Product
+Business Function,TriggeringRelationship,Product
+Business Function,ServingRelationship,Product
+Business Interaction,CompositionRelationship,Business Actor
+Business Interaction,FlowRelationship,Business Actor
+Business Interaction,AggregationRelationship,Business Actor
+Business Interaction,AssociationRelationship,Business Actor
+Business Interaction,SpecializationRelationship,Business Actor
+Business Interaction,TriggeringRelationship,Business Actor
+Business Interaction,ServingRelationship,Business Actor
+Business Interaction,CompositionRelationship,Business Role 
+Business Interaction,FlowRelationship,Business Role 
+Business Interaction,AggregationRelationship,Business Role 
+Business Interaction,AssociationRelationship,Business Role 
+Business Interaction,SpecializationRelationship,Business Role 
+Business Interaction,TriggeringRelationship,Business Role 
+Business Interaction,ServingRelationship,Business Role 
+Business Interaction,CompositionRelationship,Business Collaboration
+Business Interaction,FlowRelationship,Business Collaboration
+Business Interaction,AggregationRelationship,Business Collaboration
+Business Interaction,AssociationRelationship,Business Collaboration
+Business Interaction,SpecializationRelationship,Business Collaboration
+Business Interaction,TriggeringRelationship,Business Collaboration
+Business Interaction,ServingRelationship,Business Collaboration
+Business Interaction,CompositionRelationship,Business Interface
+Business Interaction,FlowRelationship,Business Interface
+Business Interaction,AggregationRelationship,Business Interface
+Business Interaction,AssignmentRelationship,Business Interface
+Business Interaction,AssociationRelationship,Business Interface
+Business Interaction,TriggeringRelationship,Business Interface
+Business Interaction,ServingRelationship,Business Interface
+Business Interaction,FlowRelationship,Business Process
+Business Interaction,AssociationRelationship,Business Process
+Business Interaction,TriggeringRelationship,Business Process
+Business Interaction,ServingRelationship,Business Process
+Business Interaction,CompositionRelationship,Business Function
+Business Interaction,FlowRelationship,Business Function
+Business Interaction,AggregationRelationship,Business Function
+Business Interaction,AssociationRelationship,Business Function
+Business Interaction,SpecializationRelationship,Business Function
+Business Interaction,TriggeringRelationship,Business Function
+Business Interaction,ServingRelationship,Business Function
+Business Interaction,CompositionRelationship,Business Interaction
+Business Interaction,FlowRelationship,Business Interaction
+Business Interaction,AggregationRelationship,Business Interaction
+Business Interaction,AssociationRelationship,Business Interaction
+Business Interaction,SpecializationRelationship,Business Interaction
+Business Interaction,TriggeringRelationship,Business Interaction
+Business Interaction,ServingRelationship,Business Interaction
+Business Interaction,CompositionRelationship,Business Event
+Business Interaction,FlowRelationship,Business Event
+Business Interaction,AggregationRelationship,Business Event
+Business Interaction,AssociationRelationship,Business Event
+Business Interaction,SpecializationRelationship,Business Event
+Business Interaction,TriggeringRelationship,Business Event
+Business Interaction,ServingRelationship,Business Event
+Business Interaction,CompositionRelationship,Business Service
+Business Interaction,FlowRelationship,Business Service
+Business Interaction,AggregationRelationship,Business Service
+Business Interaction,AssociationRelationship,Business Service
+Business Interaction,SpecializationRelationship,Business Service
+Business Interaction,TriggeringRelationship,Business Service
+Business Interaction,ServingRelationship,Business Service
+Business Interaction,CompositionRelationship,Business Object
+Business Interaction,AggregationRelationship,Business Object
+Business Interaction,AssociationRelationship,Business Object
+Business Interaction,SpecializationRelationship,Business Object
+Business Interaction,CompositionRelationship,Representation
+Business Interaction,AggregationRelationship,Representation
+Business Interaction,AssociationRelationship,Representation
+Business Interaction,SpecializationRelationship,Representation
+Business Interaction,CompositionRelationship,Contract
+Business Interaction,AggregationRelationship,Contract
+Business Interaction,AssociationRelationship,Contract
+Business Interaction,SpecializationRelationship,Contract
+Business Interaction,CompositionRelationship,Product
+Business Interaction,FlowRelationship,Product
+Business Interaction,AggregationRelationship,Product
+Business Interaction,AssociationRelationship,Product
+Business Interaction,SpecializationRelationship,Product
+Business Interaction,TriggeringRelationship,Product
+Business Interaction,ServingRelationship,Product
+Business Event,CompositionRelationship,Business Actor
+Business Event,FlowRelationship,Business Actor
+Business Event,AggregationRelationship,Business Actor
+Business Event,AssociationRelationship,Business Actor
+Business Event,SpecializationRelationship,Business Actor
+Business Event,TriggeringRelationship,Business Actor
+Business Event,ServingRelationship,Business Actor
+Business Event,CompositionRelationship,Business Role 
+Business Event,FlowRelationship,Business Role 
+Business Event,AggregationRelationship,Business Role 
+Business Event,AssociationRelationship,Business Role 
+Business Event,SpecializationRelationship,Business Role 
+Business Event,TriggeringRelationship,Business Role 
+Business Event,ServingRelationship,Business Role 
+Business Event,CompositionRelationship,Business Collaboration
+Business Event,FlowRelationship,Business Collaboration
+Business Event,AggregationRelationship,Business Collaboration
+Business Event,AssociationRelationship,Business Collaboration
+Business Event,SpecializationRelationship,Business Collaboration
+Business Event,TriggeringRelationship,Business Collaboration
+Business Event,ServingRelationship,Business Collaboration
+Business Event,CompositionRelationship,Business Interface
+Business Event,FlowRelationship,Business Interface
+Business Event,AggregationRelationship,Business Interface
+Business Event,AssignmentRelationship,Business Interface
+Business Event,AssociationRelationship,Business Interface
+Business Event,TriggeringRelationship,Business Interface
+Business Event,ServingRelationship,Business Interface
+Business Event,FlowRelationship,Business Process
+Business Event,AssociationRelationship,Business Process
+Business Event,TriggeringRelationship,Business Process
+Business Event,ServingRelationship,Business Process
+Business Event,CompositionRelationship,Business Function
+Business Event,FlowRelationship,Business Function
+Business Event,AggregationRelationship,Business Function
+Business Event,AssociationRelationship,Business Function
+Business Event,SpecializationRelationship,Business Function
+Business Event,TriggeringRelationship,Business Function
+Business Event,ServingRelationship,Business Function
+Business Event,CompositionRelationship,Business Interaction
+Business Event,FlowRelationship,Business Interaction
+Business Event,AggregationRelationship,Business Interaction
+Business Event,AssociationRelationship,Business Interaction
+Business Event,SpecializationRelationship,Business Interaction
+Business Event,TriggeringRelationship,Business Interaction
+Business Event,ServingRelationship,Business Interaction
+Business Event,CompositionRelationship,Business Event
+Business Event,FlowRelationship,Business Event
+Business Event,AggregationRelationship,Business Event
+Business Event,AssociationRelationship,Business Event
+Business Event,SpecializationRelationship,Business Event
+Business Event,TriggeringRelationship,Business Event
+Business Event,ServingRelationship,Business Event
+Business Event,CompositionRelationship,Business Service
+Business Event,FlowRelationship,Business Service
+Business Event,AggregationRelationship,Business Service
+Business Event,AssociationRelationship,Business Service
+Business Event,SpecializationRelationship,Business Service
+Business Event,TriggeringRelationship,Business Service
+Business Event,ServingRelationship,Business Service
+Business Event,CompositionRelationship,Business Object
+Business Event,AggregationRelationship,Business Object
+Business Event,AssociationRelationship,Business Object
+Business Event,SpecializationRelationship,Business Object
+Business Event,CompositionRelationship,Representation
+Business Event,AggregationRelationship,Representation
+Business Event,AssociationRelationship,Representation
+Business Event,SpecializationRelationship,Representation
+Business Event,CompositionRelationship,Contract
+Business Event,AggregationRelationship,Contract
+Business Event,AssociationRelationship,Contract
+Business Event,SpecializationRelationship,Contract
+Business Event,CompositionRelationship,Product
+Business Event,FlowRelationship,Product
+Business Event,AggregationRelationship,Product
+Business Event,AssociationRelationship,Product
+Business Event,SpecializationRelationship,Product
+Business Event,TriggeringRelationship,Product
+Business Event,ServingRelationship,Product
+Business Service,CompositionRelationship,Business Actor
+Business Service,FlowRelationship,Business Actor
+Business Service,AggregationRelationship,Business Actor
+Business Service,AssociationRelationship,Business Actor
+Business Service,SpecializationRelationship,Business Actor
+Business Service,TriggeringRelationship,Business Actor
+Business Service,ServingRelationship,Business Actor
+Business Service,CompositionRelationship,Business Role 
+Business Service,FlowRelationship,Business Role 
+Business Service,AggregationRelationship,Business Role 
+Business Service,AssociationRelationship,Business Role 
+Business Service,SpecializationRelationship,Business Role 
+Business Service,TriggeringRelationship,Business Role 
+Business Service,ServingRelationship,Business Role 
+Business Service,CompositionRelationship,Business Collaboration
+Business Service,FlowRelationship,Business Collaboration
+Business Service,AggregationRelationship,Business Collaboration
+Business Service,AssociationRelationship,Business Collaboration
+Business Service,SpecializationRelationship,Business Collaboration
+Business Service,TriggeringRelationship,Business Collaboration
+Business Service,ServingRelationship,Business Collaboration
+Business Service,CompositionRelationship,Business Interface
+Business Service,FlowRelationship,Business Interface
+Business Service,AggregationRelationship,Business Interface
+Business Service,AssignmentRelationship,Business Interface
+Business Service,AssociationRelationship,Business Interface
+Business Service,TriggeringRelationship,Business Interface
+Business Service,ServingRelationship,Business Interface
+Business Service,FlowRelationship,Business Process
+Business Service,AssociationRelationship,Business Process
+Business Service,TriggeringRelationship,Business Process
+Business Service,ServingRelationship,Business Process
+Business Service,CompositionRelationship,Business Function
+Business Service,FlowRelationship,Business Function
+Business Service,AggregationRelationship,Business Function
+Business Service,AssociationRelationship,Business Function
+Business Service,SpecializationRelationship,Business Function
+Business Service,TriggeringRelationship,Business Function
+Business Service,ServingRelationship,Business Function
+Business Service,CompositionRelationship,Business Interaction
+Business Service,FlowRelationship,Business Interaction
+Business Service,AggregationRelationship,Business Interaction
+Business Service,AssociationRelationship,Business Interaction
+Business Service,SpecializationRelationship,Business Interaction
+Business Service,TriggeringRelationship,Business Interaction
+Business Service,ServingRelationship,Business Interaction
+Business Service,CompositionRelationship,Business Event
+Business Service,FlowRelationship,Business Event
+Business Service,AggregationRelationship,Business Event
+Business Service,AssociationRelationship,Business Event
+Business Service,SpecializationRelationship,Business Event
+Business Service,TriggeringRelationship,Business Event
+Business Service,ServingRelationship,Business Event
+Business Service,CompositionRelationship,Business Service
+Business Service,FlowRelationship,Business Service
+Business Service,AggregationRelationship,Business Service
+Business Service,AssociationRelationship,Business Service
+Business Service,SpecializationRelationship,Business Service
+Business Service,TriggeringRelationship,Business Service
+Business Service,ServingRelationship,Business Service
+Business Service,CompositionRelationship,Business Object
+Business Service,AggregationRelationship,Business Object
+Business Service,AssociationRelationship,Business Object
+Business Service,SpecializationRelationship,Business Object
+Business Service,CompositionRelationship,Representation
+Business Service,AggregationRelationship,Representation
+Business Service,AssociationRelationship,Representation
+Business Service,SpecializationRelationship,Representation
+Business Service,CompositionRelationship,Contract
+Business Service,AggregationRelationship,Contract
+Business Service,AssociationRelationship,Contract
+Business Service,SpecializationRelationship,Contract
+Business Service,CompositionRelationship,Product
+Business Service,FlowRelationship,Product
+Business Service,AggregationRelationship,Product
+Business Service,AssociationRelationship,Product
+Business Service,SpecializationRelationship,Product
+Business Service,TriggeringRelationship,Product
+Business Service,ServingRelationship,Product
+Business Object,CompositionRelationship,Business Actor
+Business Object,FlowRelationship,Business Actor
+Business Object,AggregationRelationship,Business Actor
+Business Object,AssociationRelationship,Business Actor
+Business Object,SpecializationRelationship,Business Actor
+Business Object,TriggeringRelationship,Business Actor
+Business Object,ServingRelationship,Business Actor
+Business Object,CompositionRelationship,Business Role 
+Business Object,FlowRelationship,Business Role 
+Business Object,AggregationRelationship,Business Role 
+Business Object,AssociationRelationship,Business Role 
+Business Object,SpecializationRelationship,Business Role 
+Business Object,TriggeringRelationship,Business Role 
+Business Object,ServingRelationship,Business Role 
+Business Object,CompositionRelationship,Business Collaboration
+Business Object,FlowRelationship,Business Collaboration
+Business Object,AggregationRelationship,Business Collaboration
+Business Object,AssociationRelationship,Business Collaboration
+Business Object,SpecializationRelationship,Business Collaboration
+Business Object,TriggeringRelationship,Business Collaboration
+Business Object,ServingRelationship,Business Collaboration
+Business Object,CompositionRelationship,Business Interface
+Business Object,FlowRelationship,Business Interface
+Business Object,AggregationRelationship,Business Interface
+Business Object,AssignmentRelationship,Business Interface
+Business Object,AssociationRelationship,Business Interface
+Business Object,TriggeringRelationship,Business Interface
+Business Object,ServingRelationship,Business Interface
+Business Object,FlowRelationship,Business Process
+Business Object,AssociationRelationship,Business Process
+Business Object,TriggeringRelationship,Business Process
+Business Object,ServingRelationship,Business Process
+Business Object,CompositionRelationship,Business Function
+Business Object,FlowRelationship,Business Function
+Business Object,AggregationRelationship,Business Function
+Business Object,AssociationRelationship,Business Function
+Business Object,SpecializationRelationship,Business Function
+Business Object,TriggeringRelationship,Business Function
+Business Object,ServingRelationship,Business Function
+Business Object,CompositionRelationship,Business Interaction
+Business Object,FlowRelationship,Business Interaction
+Business Object,AggregationRelationship,Business Interaction
+Business Object,AssociationRelationship,Business Interaction
+Business Object,SpecializationRelationship,Business Interaction
+Business Object,TriggeringRelationship,Business Interaction
+Business Object,ServingRelationship,Business Interaction
+Business Object,CompositionRelationship,Business Event
+Business Object,FlowRelationship,Business Event
+Business Object,AggregationRelationship,Business Event
+Business Object,AssociationRelationship,Business Event
+Business Object,SpecializationRelationship,Business Event
+Business Object,TriggeringRelationship,Business Event
+Business Object,ServingRelationship,Business Event
+Business Object,CompositionRelationship,Business Service
+Business Object,FlowRelationship,Business Service
+Business Object,AggregationRelationship,Business Service
+Business Object,AssociationRelationship,Business Service
+Business Object,SpecializationRelationship,Business Service
+Business Object,TriggeringRelationship,Business Service
+Business Object,ServingRelationship,Business Service
+Business Object,CompositionRelationship,Business Object
+Business Object,AggregationRelationship,Business Object
+Business Object,AssociationRelationship,Business Object
+Business Object,SpecializationRelationship,Business Object
+Business Object,CompositionRelationship,Representation
+Business Object,AggregationRelationship,Representation
+Business Object,AssociationRelationship,Representation
+Business Object,SpecializationRelationship,Representation
+Business Object,CompositionRelationship,Contract
+Business Object,AggregationRelationship,Contract
+Business Object,AssociationRelationship,Contract
+Business Object,SpecializationRelationship,Contract
+Business Object,CompositionRelationship,Product
+Business Object,FlowRelationship,Product
+Business Object,AggregationRelationship,Product
+Business Object,AssociationRelationship,Product
+Business Object,SpecializationRelationship,Product
+Business Object,TriggeringRelationship,Product
+Business Object,ServingRelationship,Product
+Contract,CompositionRelationship,Business Actor
+Contract,FlowRelationship,Business Actor
+Contract,AggregationRelationship,Business Actor
+Contract,AssociationRelationship,Business Actor
+Contract,SpecializationRelationship,Business Actor
+Contract,TriggeringRelationship,Business Actor
+Contract,ServingRelationship,Business Actor
+Contract,CompositionRelationship,Business Role 
+Contract,FlowRelationship,Business Role 
+Contract,AggregationRelationship,Business Role 
+Contract,AssociationRelationship,Business Role 
+Contract,SpecializationRelationship,Business Role 
+Contract,TriggeringRelationship,Business Role 
+Contract,ServingRelationship,Business Role 
+Contract,CompositionRelationship,Business Collaboration
+Contract,FlowRelationship,Business Collaboration
+Contract,AggregationRelationship,Business Collaboration
+Contract,AssociationRelationship,Business Collaboration
+Contract,SpecializationRelationship,Business Collaboration
+Contract,TriggeringRelationship,Business Collaboration
+Contract,ServingRelationship,Business Collaboration
+Contract,CompositionRelationship,Business Interface
+Contract,FlowRelationship,Business Interface
+Contract,AggregationRelationship,Business Interface
+Contract,AssignmentRelationship,Business Interface
+Contract,AssociationRelationship,Business Interface
+Contract,TriggeringRelationship,Business Interface
+Contract,ServingRelationship,Business Interface
+Contract,FlowRelationship,Business Process
+Contract,AssociationRelationship,Business Process
+Contract,TriggeringRelationship,Business Process
+Contract,ServingRelationship,Business Process
+Contract,CompositionRelationship,Business Function
+Contract,FlowRelationship,Business Function
+Contract,AggregationRelationship,Business Function
+Contract,AssociationRelationship,Business Function
+Contract,SpecializationRelationship,Business Function
+Contract,TriggeringRelationship,Business Function
+Contract,ServingRelationship,Business Function
+Contract,CompositionRelationship,Business Interaction
+Contract,FlowRelationship,Business Interaction
+Contract,AggregationRelationship,Business Interaction
+Contract,AssociationRelationship,Business Interaction
+Contract,SpecializationRelationship,Business Interaction
+Contract,TriggeringRelationship,Business Interaction
+Contract,ServingRelationship,Business Interaction
+Contract,CompositionRelationship,Business Event
+Contract,FlowRelationship,Business Event
+Contract,AggregationRelationship,Business Event
+Contract,AssociationRelationship,Business Event
+Contract,SpecializationRelationship,Business Event
+Contract,TriggeringRelationship,Business Event
+Contract,ServingRelationship,Business Event
+Contract,CompositionRelationship,Business Service
+Contract,FlowRelationship,Business Service
+Contract,AggregationRelationship,Business Service
+Contract,AssociationRelationship,Business Service
+Contract,SpecializationRelationship,Business Service
+Contract,TriggeringRelationship,Business Service
+Contract,ServingRelationship,Business Service
+Contract,CompositionRelationship,Business Object
+Contract,AggregationRelationship,Business Object
+Contract,AssociationRelationship,Business Object
+Contract,SpecializationRelationship,Business Object
+Contract,CompositionRelationship,Representation
+Contract,AggregationRelationship,Representation
+Contract,AssociationRelationship,Representation
+Contract,SpecializationRelationship,Representation
+Contract,CompositionRelationship,Contract
+Contract,AggregationRelationship,Contract
+Contract,AssociationRelationship,Contract
+Contract,SpecializationRelationship,Contract
+Contract,CompositionRelationship,Product
+Contract,FlowRelationship,Product
+Contract,AggregationRelationship,Product
+Contract,AssociationRelationship,Product
+Contract,SpecializationRelationship,Product
+Contract,TriggeringRelationship,Product
+Contract,ServingRelationship,Product
+Representation,CompositionRelationship,Business Actor
+Representation,FlowRelationship,Business Actor
+Representation,AggregationRelationship,Business Actor
+Representation,AssociationRelationship,Business Actor
+Representation,SpecializationRelationship,Business Actor
+Representation,TriggeringRelationship,Business Actor
+Representation,ServingRelationship,Business Actor
+Representation,CompositionRelationship,Business Role 
+Representation,FlowRelationship,Business Role 
+Representation,AggregationRelationship,Business Role 
+Representation,AssociationRelationship,Business Role 
+Representation,SpecializationRelationship,Business Role 
+Representation,TriggeringRelationship,Business Role 
+Representation,ServingRelationship,Business Role 
+Representation,CompositionRelationship,Business Collaboration
+Representation,FlowRelationship,Business Collaboration
+Representation,AggregationRelationship,Business Collaboration
+Representation,AssociationRelationship,Business Collaboration
+Representation,SpecializationRelationship,Business Collaboration
+Representation,TriggeringRelationship,Business Collaboration
+Representation,ServingRelationship,Business Collaboration
+Representation,CompositionRelationship,Business Interface
+Representation,FlowRelationship,Business Interface
+Representation,AggregationRelationship,Business Interface
+Representation,AssignmentRelationship,Business Interface
+Representation,AssociationRelationship,Business Interface
+Representation,TriggeringRelationship,Business Interface
+Representation,ServingRelationship,Business Interface
+Representation,FlowRelationship,Business Process
+Representation,AssociationRelationship,Business Process
+Representation,TriggeringRelationship,Business Process
+Representation,ServingRelationship,Business Process
+Representation,CompositionRelationship,Business Function
+Representation,FlowRelationship,Business Function
+Representation,AggregationRelationship,Business Function
+Representation,AssociationRelationship,Business Function
+Representation,SpecializationRelationship,Business Function
+Representation,TriggeringRelationship,Business Function
+Representation,ServingRelationship,Business Function
+Representation,CompositionRelationship,Business Interaction
+Representation,FlowRelationship,Business Interaction
+Representation,AggregationRelationship,Business Interaction
+Representation,AssociationRelationship,Business Interaction
+Representation,SpecializationRelationship,Business Interaction
+Representation,TriggeringRelationship,Business Interaction
+Representation,ServingRelationship,Business Interaction
+Representation,CompositionRelationship,Business Event
+Representation,FlowRelationship,Business Event
+Representation,AggregationRelationship,Business Event
+Representation,AssociationRelationship,Business Event
+Representation,SpecializationRelationship,Business Event
+Representation,TriggeringRelationship,Business Event
+Representation,ServingRelationship,Business Event
+Representation,CompositionRelationship,Business Service
+Representation,FlowRelationship,Business Service
+Representation,AggregationRelationship,Business Service
+Representation,AssociationRelationship,Business Service
+Representation,SpecializationRelationship,Business Service
+Representation,TriggeringRelationship,Business Service
+Representation,ServingRelationship,Business Service
+Representation,CompositionRelationship,Business Object
+Representation,AggregationRelationship,Business Object
+Representation,AssociationRelationship,Business Object
+Representation,SpecializationRelationship,Business Object
+Representation,CompositionRelationship,Representation
+Representation,AggregationRelationship,Representation
+Representation,AssociationRelationship,Representation
+Representation,SpecializationRelationship,Representation
+Representation,CompositionRelationship,Contract
+Representation,AggregationRelationship,Contract
+Representation,AssociationRelationship,Contract
+Representation,SpecializationRelationship,Contract
+Representation,CompositionRelationship,Product
+Representation,FlowRelationship,Product
+Representation,AggregationRelationship,Product
+Representation,AssociationRelationship,Product
+Representation,SpecializationRelationship,Product
+Representation,TriggeringRelationship,Product
+Representation,ServingRelationship,Product
+Product,CompositionRelationship,Business Actor
+Product,FlowRelationship,Business Actor
+Product,AggregationRelationship,Business Actor
+Product,AssociationRelationship,Business Actor
+Product,SpecializationRelationship,Business Actor
+Product,TriggeringRelationship,Business Actor
+Product,ServingRelationship,Business Actor
+Product,CompositionRelationship,Business Role 
+Product,FlowRelationship,Business Role 
+Product,AggregationRelationship,Business Role 
+Product,AssociationRelationship,Business Role 
+Product,SpecializationRelationship,Business Role 
+Product,TriggeringRelationship,Business Role 
+Product,ServingRelationship,Business Role 
+Product,CompositionRelationship,Business Collaboration
+Product,FlowRelationship,Business Collaboration
+Product,AggregationRelationship,Business Collaboration
+Product,AssociationRelationship,Business Collaboration
+Product,SpecializationRelationship,Business Collaboration
+Product,TriggeringRelationship,Business Collaboration
+Product,ServingRelationship,Business Collaboration
+Product,CompositionRelationship,Business Interface
+Product,FlowRelationship,Business Interface
+Product,AggregationRelationship,Business Interface
+Product,AssignmentRelationship,Business Interface
+Product,AssociationRelationship,Business Interface
+Product,TriggeringRelationship,Business Interface
+Product,ServingRelationship,Business Interface
+Product,FlowRelationship,Business Process
+Product,AssociationRelationship,Business Process
+Product,TriggeringRelationship,Business Process
+Product,ServingRelationship,Business Process
+Product,CompositionRelationship,Business Function
+Product,FlowRelationship,Business Function
+Product,AggregationRelationship,Business Function
+Product,AssociationRelationship,Business Function
+Product,SpecializationRelationship,Business Function
+Product,TriggeringRelationship,Business Function
+Product,ServingRelationship,Business Function
+Product,CompositionRelationship,Business Interaction
+Product,FlowRelationship,Business Interaction
+Product,AggregationRelationship,Business Interaction
+Product,AssociationRelationship,Business Interaction
+Product,SpecializationRelationship,Business Interaction
+Product,TriggeringRelationship,Business Interaction
+Product,ServingRelationship,Business Interaction
+Product,CompositionRelationship,Business Event
+Product,FlowRelationship,Business Event
+Product,AggregationRelationship,Business Event
+Product,AssociationRelationship,Business Event
+Product,SpecializationRelationship,Business Event
+Product,TriggeringRelationship,Business Event
+Product,ServingRelationship,Business Event
+Product,CompositionRelationship,Business Service
+Product,FlowRelationship,Business Service
+Product,AggregationRelationship,Business Service
+Product,AssociationRelationship,Business Service
+Product,SpecializationRelationship,Business Service
+Product,TriggeringRelationship,Business Service
+Product,ServingRelationship,Business Service
+Product,CompositionRelationship,Business Object
+Product,AggregationRelationship,Business Object
+Product,AssociationRelationship,Business Object
+Product,SpecializationRelationship,Business Object
+Product,CompositionRelationship,Representation
+Product,AggregationRelationship,Representation
+Product,AssociationRelationship,Representation
+Product,SpecializationRelationship,Representation
+Product,CompositionRelationship,Contract
+Product,AggregationRelationship,Contract
+Product,AssociationRelationship,Contract
+Product,SpecializationRelationship,Contract
+Product,CompositionRelationship,Product
+Product,FlowRelationship,Product
+Product,AggregationRelationship,Product
+Product,AssociationRelationship,Product
+Product,SpecializationRelationship,Product
+Product,TriggeringRelationship,Product
+Product,ServingRelationship,Product
